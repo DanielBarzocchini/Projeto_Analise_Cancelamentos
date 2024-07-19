@@ -11,3 +11,8 @@ Apaguei algumas colunas irrelevantes para o projeto.
 Verifiquei que haviam campos vazios em 5 linhas no universo de 50000, por isto removi as linhas. 
 
 Gerei alguns gráficos comparando os campos da tabela com a coluna de cancelamentos para identificar algum padrão entre os dados. 
+
+Após a analise dos gráfcos, identifiquei que:
+- Todos os clientes do contrato mensal cencelaram.
+- Clientes que ligam mais do que 4 vezes para o call center, cancelaram.
+- Clientes que atrasaram mais de 20 dias, cancelaram.
