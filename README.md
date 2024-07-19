@@ -16,3 +16,8 @@ Após a analise dos gráfcos, identifiquei que:
 - Todos os clientes do contrato mensal cencelaram.
 - Clientes que ligam mais do que 4 vezes para o call center, cancelaram.
 - Clientes que atrasaram mais de 20 dias, cancelaram.
+
+Para os casos descritos acima, sugeri as seguintes propostas de solução:
+- Verificar a possibilidade de ofercer desconto nos planos anuais e trimestrais.
+- Criar um processo para resolver o problema do cliente em no máximo 3 ligações.
+- Criar uma política com o time financeiro, para resolver atrasos em até 10 dias.
