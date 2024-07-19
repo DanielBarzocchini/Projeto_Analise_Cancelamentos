@@ -21,3 +21,5 @@ Para os casos descritos acima, sugeri as seguintes propostas de solução:
 - Verificar a possibilidade de ofercer desconto nos planos anuais e trimestrais.
 - Criar um processo para resolver o problema do cliente em no máximo 3 ligações.
 - Criar uma política com o time financeiro, para resolver atrasos em até 10 dias.
+
+Caso estas propostas sejam colocadas em prárica teríamos uma redução de cancelamentos de aproximadamente 43% para 18%.
