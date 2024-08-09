@@ -14,8 +14,16 @@ Gerei alguns gráficos comparando os campos da tabela com a coluna de cancelamen
 
 Após a analise dos gráfcos, identifiquei que:
 - Todos os clientes do contrato mensal cencelaram.
+
+![duracao_contrato](https://github.com/user-attachments/assets/7cd32e8a-6088-484a-8bb0-8fb57cd1548a)
+
 - Clientes que ligam mais do que 4 vezes para o call center, cancelaram.
+
+![ligacoes](https://github.com/user-attachments/assets/52280ee8-53cd-4537-a494-8012cd08ee68)
+
 - Clientes que atrasaram mais de 20 dias, cancelaram.
+
+![dias_atraso](https://github.com/user-attachments/assets/77d8712b-2578-4f5a-8df8-e0bd32109ea6)
 
 Para os casos descritos acima, sugeri as seguintes propostas de solução:
 - Verificar a possibilidade de ofercer desconto nos planos anuais e trimestrais.
